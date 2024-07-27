@@ -9,6 +9,6 @@ class Animal {
 }
 
 function setup() {
-  let mrMonkey = new Animal ('yellow', "Hah-ha!")
+  let mrMonkey = new Animal ('yellow', "Hu-Hi-Hah-ha!")
   mrMonkey.talk();
 }
